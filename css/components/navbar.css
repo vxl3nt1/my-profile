@@ -1,0 +1,36 @@
+.navbar{
+position: fixed;
+display: flex;
+align-items: center;
+padding: 20px;
+background-color: white;
+box-shadow: 0px;
+width: 100%;
+z-index: 1;
+}
+
+.navbar img {
+width: 60px;
+height: 60px;
+}
+
+.navbar ul{
+display: flex;
+align-items: center;
+list-style: none;
+margin: 0;
+padding: 0;
+flex-grow: 1;
+gap: 20px;
+justify-content: flex-end;
+margin: 20px;
+}
+
+navbar li{
+font-family: 'Poppins', sans-serif;
+color: darkred;
+text-transform: uppercase;
+}
+.navbar li: hover{
+
+}

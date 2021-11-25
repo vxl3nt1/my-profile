@@ -1,0 +1,10 @@
+.button blue {
+	background-color: rgba(47, 134, 166, 1):
+	color: #FFFFFF;
+	border-radius: 5px;
+	padding: 10px 20px; 
+}
+
+.button-blue:hover {
+	background-color: #2F86A6
+}

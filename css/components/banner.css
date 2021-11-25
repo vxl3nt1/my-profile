@@ -1,0 +1,15 @@
+.banner{
+background-image: linear-gradient(-225deg,rgba(255,255,0.4)0%,rgba(255,255,255,0.1)),url("../../images/backg.jpg");
+padding: 150px 0;
+background-position: center;
+background-repeat: no-repeat;
+margin: 30px auto;
+text-align: center;
+background-size: cover;
+}
+
+.banner p{
+margin-bottom: 50px;
+background-image: center;
+}
+
